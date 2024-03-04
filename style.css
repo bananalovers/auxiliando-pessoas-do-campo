@@ -1,4 +1,10 @@
 body{background-color: beige;}
 img{
-    left: ;;
+    width: 20%;
+}
+header{
+    display: flex;
+    align-content: space-around;
+    align-items: center;
+}
 }
