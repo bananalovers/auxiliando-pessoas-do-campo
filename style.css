@@ -9,4 +9,7 @@ header{
 }
 .macaco-dedo{
     width: 30%;
+}
+.intro{
+    display: flex;
 }  
