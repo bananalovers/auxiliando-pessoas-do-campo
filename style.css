@@ -18,7 +18,7 @@ header{
     border: 3px solid black;
     display: flex;
 } 
-.bananinhas-lovers{
+#bananinhas-lovers{
     display: grid;
     grid-template-columns: 35% 35% 35%;
     text-align: center;
