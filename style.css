@@ -7,10 +7,10 @@ header{
     align-content: space-around;
     align-items: center;
     display: flex;
-    border: 3px 0 black;
+    border: 3px black;
     background-color: green;
     padding: 30px;
-    margin: 30PX 0 0 0;
+    margin: 30PX 0;
 }
 .macaco-dedo{
     width: 26%;
