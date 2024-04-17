@@ -23,7 +23,7 @@ header{
     grid-template-columns: 35% 35% 35%;
     text-align: center;
     background-color: rgba(2, 83, 29, 0.808);
-    border: rgb(2, 83, 29, 0.808);
+    border: rgb(2, 83, 29);
     width: 100%;
 }
 header a{
