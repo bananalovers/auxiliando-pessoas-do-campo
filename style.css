@@ -19,7 +19,7 @@ header{
     display: flex;
 } 
 #bananinhas-lovers{
-    display: flex;
+    display: grid;
     grid-template-columns: 35% 35% 35%;
     text-align: center;
     background-color: rgba(2, 83, 29, 0.808);
