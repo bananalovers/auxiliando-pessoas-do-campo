@@ -4,9 +4,8 @@ img{
 }
 header{
     display: flex;
-    align-content: space-around;
+    justify-content: space-around;
     align-items: center;
-    display: flex;
     border: 3px black;
     background-color: green;
     padding: 30px;
