@@ -20,12 +20,12 @@ header{
 } 
 #bananinhas-lovers{
     display: grid;
-    grid-template-columns: 35% 35% 35%;
+    grid-template-columns: 33% 33% 33%;
     text-align: center;
     background-color: rgba(2, 83, 29, 0.808);
     border: 3px solid black;
-    display: flex;
     width: 100%;
+    margin: 35px 0;
 }
 header a{
     color: blue;
