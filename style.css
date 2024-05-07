@@ -32,3 +32,12 @@ header a{
     color: blue;
     text-decoration: double;
 }
+.macacoss{
+display: flex;
+align-items: center;
+border: 3px black;
+padding: 30px;
+margin: 30px 0;
+}
+
+}
