@@ -1,4 +1,4 @@
-body{background-color: rgb(187, 187, 18);}
+body{background-color:rgb(102, 68, 18);}
 img{
     width: 20%;
 }
@@ -7,7 +7,7 @@ header{
     justify-content: space-around;
     align-items: center;
     border: 3px black;
-    background-color: green;
+    background-color: rgb(23, 143, 23);
     padding: 30px;
     margin: 30PX 0;
 }
